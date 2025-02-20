@@ -25,6 +25,7 @@
     height: 30px;
     border-radius: 50%;
     animation: loading 0.8s ease infinite;
+    
 }
 
 .loader .loading.one{
